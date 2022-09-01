@@ -1,4 +1,14 @@
-//for (inicialização) (condição) (expressão final) 
-for(i=0; i < 100; i = i + 2){
-    console.log(`A soma de i com 2 é  ${ i }`);
-}
+/*
+3_exercicio
+Armazene valores em variáveis 
+com cada um dos tipos de dados
+ vistos; String, Number e Boolean;
+*/
+nome = "João";
+idade = 18;
+homem = true;
+
+console.log(typeof(nome));
+console.log(typeof(idade));
+console.log(typeof(homem));
+
